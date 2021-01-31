@@ -1,7 +1,7 @@
 # Zoo-Animal-Classification
 
 ## Goals
-**Can you predict the class of animals?**
+**Can you predict the class of animals?** <br>
 The purpose of this dataset is to be able to predict the classification of the animals, based upon the variables.
 
 # Contibutors
